@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23849356488",
+    "project_id": "my-homework-final",
+    "storage_bucket": "my-homework-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23849356488:android:151cf150640d373b79e9fd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_homework1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23849356488-nndtn1vl08lh7tc87vepha1d80l81obt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe5vy69uvQXdUG2OnyVl7YSk82DzfzdWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23849356488-nndtn1vl08lh7tc87vepha1d80l81obt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
